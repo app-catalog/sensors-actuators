@@ -1,2 +1,2 @@
 # app-catalog
-A prototype application for cataloging sensor and atuadores data on the Web
+A prototype application for sensor and actuator data cataloging.
